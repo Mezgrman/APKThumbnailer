@@ -2,6 +2,10 @@ APK Thumbnailer
 ========================================
 A thumbnailer for APK files. Works in Nautilus, at least.
 
+License
+-------
+This program is licensed under the AGPLv3. See the `LICENSE` file for more information.
+
 Requirements
 ------------
 You need `aapt` for this to work.
